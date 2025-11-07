@@ -1,4 +1,3 @@
-## Hi there 👋
 ![yes](https://github.com/AndreaSevincel/AndreaSevincel/blob/main/Hallig_Gr%C3%B6de%2C_Germany%2C_view_from_the_marina.jpg)
 <!--
 **AndreaSevincel/AndreaSevincel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
